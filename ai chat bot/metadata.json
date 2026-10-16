@@ -1,0 +1,6 @@
+{
+  "name": "C++ Learning Buddy",
+  "description": "Interactive AI-powered C++ learning platform teaching from zero to advanced with tri-lingual AI tutor (Hinglish, Marathi, English), interactive compiler, quizzes, and visualizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
